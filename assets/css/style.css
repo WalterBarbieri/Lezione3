@@ -48,8 +48,7 @@ figcaption {
     color: #70244B;
 }
 #featured {
-    border-color: yellow;
-    border-left: 10px;
+    border-left: 1px solid yellow;
     padding-left: 1px;
     margin-left: 1px;
     height: 100%;
@@ -58,10 +57,12 @@ figcaption {
 #featured :first-child{
     margin-bottom: 0;
     color: #B5460F;
+    margin-left: 10px;
 }
 #featured :last-child{
     margin-top: 0;
-    color: #276977
+    color: #276977;
+    margin-left: 5px;
 }
 ol :last-child {
     list-style-type: none;
