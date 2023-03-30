@@ -48,8 +48,10 @@ figcaption {
     color: #70244B;
 }
 #featured {
-    border-left-color: yellow;
+    border-color: yellow;
     border-left: 10px;
+    padding-left: 1px;
+    margin-left: 1px;
     height: 100%;
     font-size: 1em;
 }
