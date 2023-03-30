@@ -49,8 +49,6 @@ figcaption {
 }
 #featured {
     border-left: 1px solid yellow;
-    padding-left: 1px;
-    margin-left: 1px;
     height: 100%;
     font-size: 1em;
 }
